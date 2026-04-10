@@ -256,8 +256,8 @@ export default function App() {
               <span style={{ fontSize:10, letterSpacing:5, textTransform:'uppercase', color:'#b48c3c' }}>Desde 2018 · Trujillo</span>
             </div>
             <h1 className="fr-hero-h1" style={{ fontFamily:"'Cormorant Garamond',serif", fontSize:'clamp(42px,6vw,88px)', fontWeight:300, lineHeight:1, color:'#f0e6cc', marginBottom:8, letterSpacing:-1 }}>
-              Robo<br />
-              <em style={{ fontStyle:'italic', color:'#b48c3c' }}>a la Brasa</em>
+              ROBO<br />
+              <em style={{ fontStyle:'italic', color:'#b48c3c' }}>a la Parrilla</em>
             </h1>
             <p style={{ fontSize:11, letterSpacing:4, textTransform:'uppercase', color:'#6b5c40', marginTop:24, marginBottom:48, lineHeight:2 }}>
               Cortes madurados · Mixología de autor<br />Servicio impecable
