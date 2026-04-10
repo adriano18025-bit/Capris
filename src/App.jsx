@@ -36,9 +36,8 @@ const marqueeItems = [
 ];
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('carnes');
-  const [menuOpen, setMenuOpen] = useState(false);
-
+  return <h1>Funciona</h1>
+}
   return (
     <div style={{ background:'#080706', color:'#d4c5a9', fontFamily:"'Josefin Sans',sans-serif", fontWeight:300, overflowX:'hidden', minHeight:'100vh' }}>
 
@@ -451,4 +450,4 @@ export default function App() {
 
     </div>
   );
-}
+
